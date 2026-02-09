@@ -95,7 +95,7 @@
 \newcommand{\unitlabel}{{Organización Estudiantil} : }
 \newcommand{\teamslabel}{Área de Económica : }
 \newcommand{\suplabel}{Directiva : }
-\newcommand{\abstractlabel}{Del Castillo, Daniela \textsuperscript{*}/ Yika, Joalhé \textsuperscript{†}/ Guzmán, Carolina\textsuperscript{‡}}
+\newcommand{\abstractlabel}{Carbajal, Aylin \textsuperscript{*}/ Yika, Joalhé \textsuperscript{†}/ Saavedra, Veronica\textsuperscript{‡}}
 
 \newcommand{\mydate}{}
 
