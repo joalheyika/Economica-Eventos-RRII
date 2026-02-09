@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.8)  8 FEB 2026 21:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.8)  8 FEB 2026 21:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1015,12 +1015,16 @@ File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 60.
 
-No file rapportMaster.aux.
+(rapportMaster.aux
+Package babel Info: 'french' activates 'french' shorthands.
+(babel)             Reported on input line 13.
+)
 \openout1 = `rapportMaster.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 60.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
  60.
+
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
@@ -1090,6 +1094,7 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring ON on input line 60.
+ (rapportMaster.out) (rapportMaster.out)
 \@outlinefile=\write4
 \openout4 = `rapportMaster.out'.
 
@@ -1132,8 +1137,6 @@ LaTeX Info: Command `\ddddot' is already robust on input line 60.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package babel Info: 'french' activates 'french' shorthands.
-(babel)             Reported on input line 60.
 LaTeX Info: Redefining \degres on input line 60.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
@@ -1239,7 +1242,7 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 8.0pt on input line 89.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 6.1pt on input line 89.
-<LogoECO.png, id=3, 295.85532pt x 86.57344pt>
+<LogoECO.png, id=67, 295.85532pt x 86.57344pt>
 File: LogoECO.png Graphic file (type png)
 <use LogoECO.png>
 Package pdftex.def Info: LogoECO.png  used on input line 89.
@@ -1287,12 +1290,17 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/it' will be
 h/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/
 joalh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{C:
 /Users/joalh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc} 
-<./LogoECO.png (PNG copy)>]
-No file rapportMaster.toc.
+<./LogoECO.png (PNG copy)>] (rapportMaster.toc
+
+Package biblatex Warning: No localisation for language 'spanish' loaded.
+(biblatex)                Please rerun LaTeX to ensure languages can
+(biblatex)                be requested properly.
+
+)
 \tf@toc=\write5
 \openout5 = `rapportMaster.toc'.
 
-[2]
+ [2]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 130.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
@@ -1315,55 +1323,34 @@ Underfull \hbox (badness 1472) in paragraph at lines 173--173
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3] [4] [5] (rapportMaster.aux
-
-Package biblatex Warning: No localisation for language 'spanish' loaded.
-(biblatex)                Please rerun LaTeX to ensure languages can
-(biblatex)                be requested properly.
-
-)
+[3] [4] [5] (rapportMaster.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `rapportMaster.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `rapportMaster.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  1CF814481F85D11A4995F941D102DCC0;2973.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                rapportMaster
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `rapportMaster.out' has not changed.
+(rerunfilecheck)             Checksum: 1CF814481F85D11A4995F941D102DCC0;2973.
 Package logreq Info: Writing requests to 'rapportMaster.run.xml'.
 \openout1 = `rapportMaster.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27766 strings out of 467866
- 472639 string characters out of 5418326
- 1357662 words of memory out of 5000000
- 56272 multiletter control sequences out of 15000+600000
+ 27794 strings out of 467866
+ 473362 string characters out of 5418326
+ 1357776 words of memory out of 5000000
+ 56292 multiletter control sequences out of 15000+600000
  680832 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,12n,131p,1192b,1757s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,12n,131p,1192b,1804s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/joalh/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtm
 b.pfb><C:/Users/joalh/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre
 /qtmri.pfb><C:/Users/joalh/AppData/Local/Programs/MiKTeX/fonts/type1/public/new
 tx/ztmb.pfb><C:/Users/joalh/AppData/Local/Programs/MiKTeX/fonts/type1/public/ne
 wtx/ztmr.pfb><C:/Users/joalh/AppData/Local/Programs/MiKTeX/fonts/type1/public/n
 ewtx/ztmri.pfb>
-Output written on rapportMaster.pdf (5 pages, 161663 bytes).
+Output written on rapportMaster.pdf (5 pages, 171614 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 148 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
