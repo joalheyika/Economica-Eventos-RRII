@@ -1,13 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.8)  8 FEB 2026 14:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.8)  8 FEB 2026 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**C:/Users/joalh/Desktop/Plan_de_trabajo___Foto_de_directores/rapportMaster.tex
-
-(C:/Users/joalh/Desktop/Plan_de_trabajo___Foto_de_directores/rapportMaster.tex
+**./rapportMaster.tex
+(rapportMaster.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
-(C:/Users/joalh/Desktop/Plan_de_trabajo___Foto_de_directores\ipgpmaster.cls
+(ipgpmaster.cls
 Document Class: ipgpmaster 
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
@@ -1006,64 +1005,64 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
 -spanish.tex)
 Package babel Info: Importing data for spanish
-(babel)             from babel-es.ini. Reported on input line 50.
+(babel)             from babel-es.ini. Reported on input line 53.
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
- 57.
+ 60.
 
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 57.
+(Font)              scaled to size 10.95pt on input line 60.
 
 No file rapportMaster.aux.
 \openout1 = `rapportMaster.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 57.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 60.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
- 57.
+ 60.
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 60.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-57.
+60.
 
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 60.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 57.
+ 60.
 
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 60.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 57.
+e 60.
 
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    ... okay on input line 60.
 
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1090,14 +1089,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 57.
+Package hyperref Info: Link coloring ON on input line 60.
 \@outlinefile=\write4
 \openout4 = `rapportMaster.out'.
 
 \c@mv@tabular=\count492
 \c@mv@boldtabular=\count493
-LaTeX Info: Command `\dddot' is already robust on input line 57.
-LaTeX Info: Command `\ddddot' is already robust on input line 57.
+LaTeX Info: Command `\dddot' is already robust on input line 60.
+LaTeX Info: Command `\ddddot' is already robust on input line 60.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1134,8 +1133,8 @@ LaTeX Info: Command `\ddddot' is already robust on input line 57.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package babel Info: 'french' activates 'french' shorthands.
-(babel)             Reported on input line 57.
-LaTeX Info: Redefining \degres on input line 57.
+(babel)             Reported on input line 60.
+LaTeX Info: Redefining \degres on input line 60.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1162,161 +1161,154 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'rapportMaster.bbl' not found.
 
 No file rapportMaster.bbl.
-Package biblatex Info: Reference section=0 on input line 57.
-Package biblatex Info: Reference segment=0 on input line 57.
+Package biblatex Info: Reference section=0 on input line 60.
+Package biblatex Info: Reference segment=0 on input line 60.
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
-e 86.
+e 89.
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 10.95pt on input line 86.
+(Font)              scaled to size 10.95pt on input line 89.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 86.
+(Font)              scaled to size 8.0pt on input line 89.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 6.1pt on input line 86.
+(Font)              scaled to size 6.1pt on input line 89.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 10.95pt on input line 86.
+(Font)              scaled to size 10.95pt on input line 89.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 8.0pt on input line 86.
+(Font)              scaled to size 8.0pt on input line 89.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 6.1pt on input line 86.
+(Font)              scaled to size 6.1pt on input line 89.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 10.95pt on input line 86.
+(Font)              scaled to size 10.95pt on input line 89.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.0pt on input line 86.
+(Font)              scaled to size 8.0pt on input line 89.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.1pt on input line 86.
+(Font)              scaled to size 6.1pt on input line 89.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 10.95pt on input line 86.
+(Font)              scaled to size 10.95pt on input line 89.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 86.
+(Font)              scaled to size 8.0pt on input line 89.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.1pt on input line 86.
+(Font)              scaled to size 6.1pt on input line 89.
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-86.
+89.
 
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 10.95pt on input line 86.
+(Font)              scaled to size 10.95pt on input line 89.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.0pt on input line 86.
+(Font)              scaled to size 8.0pt on input line 89.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.1pt on input line 86.
+(Font)              scaled to size 6.1pt on input line 89.
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-86.
+89.
 
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 10.95pt on input line 86.
+(Font)              scaled to size 10.95pt on input line 89.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.0pt on input line 86.
+(Font)              scaled to size 8.0pt on input line 89.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.1pt on input line 86.
+(Font)              scaled to size 6.1pt on input line 89.
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-86.
+89.
 
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 10.95pt on input line 86.
+(Font)              scaled to size 10.95pt on input line 89.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.0pt on input line 86.
+(Font)              scaled to size 8.0pt on input line 89.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.1pt on input line 86.
+(Font)              scaled to size 6.1pt on input line 89.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 10.95pt on input line 86.
+(Font)              scaled to size 10.95pt on input line 89.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.0pt on input line 86.
+(Font)              scaled to size 8.0pt on input line 89.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.1pt on input line 86.
+(Font)              scaled to size 6.1pt on input line 89.
 <LogoECO.png, id=3, 295.85532pt x 86.57344pt>
 File: LogoECO.png Graphic file (type png)
 <use LogoECO.png>
-Package pdftex.def Info: LogoECO.png  used on input line 86.
+Package pdftex.def Info: LogoECO.png  used on input line 89.
 (pdftex.def)             Requested size: 136.57462pt x 39.96559pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 86.
+(Font)              scaled to size 10.95pt on input line 89.
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
  []
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 20.74pt on input line 86.
+(Font)              scaled to size 20.74pt on input line 89.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 20.74pt on input line 86.
+(Font)              scaled to size 20.74pt on input line 89.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 86.
+(Font)              scaled to size 14.4pt on input line 89.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 86.
+(Font)              scaled to size 14.4pt on input line 89.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 87.
+(Font)              scaled to size 10.95pt on input line 90.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.0pt on input line 87.
+(Font)              scaled to size 8.0pt on input line 90.
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
-e 87.
+e 90.
 (C:\Users\joalh\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.0pt on input line 87.
+(Font)              scaled to size 8.0pt on input line 90.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 87.
+(Font)              scaled to size 10.0pt on input line 90.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 88.
-
-! Undefined control sequence.
-\endabstract -> \par {\bfseries \keyslabel 
-                                           } \keywords \par 
-l.88 \end{abstract}
-                   
-? 
+(Font)              scaled to size 10.0pt on input line 100.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 106.
+(Font)              scaled to size 10.95pt on input line 109.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 8.0pt on input line 106.
+(Font)              scaled to size 8.0pt on input line 109.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/it' will be
-(Font)              scaled to size 8.0pt on input line 106.
+(Font)              scaled to size 8.0pt on input line 109.
+
 [1
 
 {C:/Users/joalh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/joal
 h/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/
 joalh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{C:
 /Users/joalh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc} 
-<C:/Users/joalh/Desktop/Plan_de_trabajo___Foto_de_directores/LogoECO.png (PNG c
-opy)>]
+<./LogoECO.png (PNG copy)>]
 No file rapportMaster.toc.
 \tf@toc=\write5
 \openout5 = `rapportMaster.toc'.
 
 [2]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 127.
+(Font)              scaled to size 12.0pt on input line 130.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 127.
+(Font)              scaled to size 12.0pt on input line 130.
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
 []|\T1/ntxtlf/m/n/10.95 Subdirección
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
 []|\T1/ntxtlf/m/n/10.95 Coordinación
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 170--170
+Underfull \hbox (badness 1472) in paragraph at lines 173--173
 []|\T1/ntxtlf/m/n/10.95 28 feb. o 7
  []
 
@@ -1357,19 +1349,19 @@ Package logreq Info: Writing requests to 'rapportMaster.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  27766 strings out of 467866
- 472776 string characters out of 5418326
- 1357645 words of memory out of 5000000
- 56270 multiletter control sequences out of 15000+600000
+ 472639 string characters out of 5418326
+ 1357662 words of memory out of 5000000
+ 56272 multiletter control sequences out of 15000+600000
  680832 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,12n,131p,1250b,1757s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,12n,131p,1192b,1757s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/joalh/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtm
 b.pfb><C:/Users/joalh/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre
 /qtmri.pfb><C:/Users/joalh/AppData/Local/Programs/MiKTeX/fonts/type1/public/new
 tx/ztmb.pfb><C:/Users/joalh/AppData/Local/Programs/MiKTeX/fonts/type1/public/ne
 wtx/ztmr.pfb><C:/Users/joalh/AppData/Local/Programs/MiKTeX/fonts/type1/public/n
 ewtx/ztmri.pfb>
-Output written on rapportMaster.pdf (5 pages, 160893 bytes).
+Output written on rapportMaster.pdf (5 pages, 161663 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)

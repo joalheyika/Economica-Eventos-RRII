@@ -1,0 +1,18 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Justificación del Proyecto}{3}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos del Proyecto}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Objetivo General del proyecto}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Objetivos Específicos alineados al plan de trabajo}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Enfoque de Gestión y Orientación a Resultados}{3}{section.3}%
+\contentsline {section}{\numberline {4}Partes Implicadas y Roles}{3}{section.4}%
+\contentsline {section}{\numberline {5}Plan de Acciones del Proyecto}{3}{section.5}%
+\contentsline {section}{\numberline {6}Lugar y Fecha Tentativa}{4}{section.6}%
+\contentsline {section}{\numberline {7}Recursos del Proyecto}{4}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Recursos Humanos}{4}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Recursos Materiales}{4}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Indicadores de Desempeño}{4}{section.8}%
+\contentsline {section}{\numberline {9}Duración del Proyecto}{5}{section.9}%
+\contentsline {section}{\numberline {10}Presupuesto del Proyecto}{5}{section.10}%
+\contentsline {section}{\numberline {11}Riesgos y Medidas de Mitigación}{5}{section.11}%
+\contentsline {section}{\numberline {12}Conclusiones}{5}{section.12}%
